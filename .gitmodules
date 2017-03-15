@@ -1,0 +1,9 @@
+[submodule ".vim/bundle/vim-autoformat"]
+	path = .vim/bundle/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule ".vim/bundle/vim-lexima"]
+	path = .vim/bundle/vim-lexima
+	url = https://github.com/cohama/lexima.vim.git
+[submodule ".vim/bundle/vim-sensible"]
+	path = .vim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
